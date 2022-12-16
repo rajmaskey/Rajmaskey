@@ -18,10 +18,6 @@ I am a System Admin, entrepreneur and a passionate developer based in Nepal. I e
 
 📃   [> www.rajmaskey.dev](https://rajmaskey.dev) 
 
-(not working for now)🎶 I'm currently listening:
-
-![My Spotify](https://spotify-currently-playing-track.vercel.app/api)
-
 🔗 Current Discord Status:
 
 ![](https://discord.c99.nl/widget/theme-3/490785640204599296.png)
