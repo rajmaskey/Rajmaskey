@@ -8,7 +8,15 @@ I am a System Admin, entrepreneur and a passionate developer based in Nepal. I e
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rajmaskey&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF" />
 
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaskey&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF" />
+
+
+
+
+
+
 
 
 
@@ -27,10 +35,6 @@ I am a System Admin, entrepreneur and a passionate developer based in Nepal. I e
 💌 [Contact@rajmaskey.dev](mailto:contact@rajmaskey.dev)
 
 📃   [> www.rajmaskey.dev](https://rajmaskey.dev) 
-
-(not working for now)🎶 I'm currently listening:
-
-![My Spotify](https://spotify-currently-playing-track.vercel.app/api)
 
 🔗 Current Discord Status:
 
