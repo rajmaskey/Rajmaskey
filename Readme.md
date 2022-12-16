@@ -1,26 +1,8 @@
  Hi! I'm Raj
 
-
+![](https://komarev.com/ghpvc/?username=rajmaskey&color=blueviolet&style=flat-square)
 
 I am a System Admin, entrepreneur and a passionate developer based in Nepal. I enjoy eating cheese and bring joy to people's lives. I would love to hear your thoughts and ideas. Contact me at: contact@rajmaskey.dev  
-
-📊 GitHub stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajmaskey&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF" />
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaskey&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF" />
-
-
-
-
-
-
-
-
-
-
 
 🌱 I'm currently learning:
 
@@ -36,14 +18,16 @@ I am a System Admin, entrepreneur and a passionate developer based in Nepal. I e
 
 📃   [> www.rajmaskey.dev](https://rajmaskey.dev) 
 
+
 🔗 Current Discord Status:
 
 ![](https://discord.c99.nl/widget/theme-3/490785640204599296.png)
 
-<!---![Reg Chiu's github stats](https://github-readme-stats.vercel.app/api?username=rajmaskey&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF) --->
+📊 GitHub stats
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaskey&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF) --->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajmaskey&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF" /> </img>
 
 
 
-> Inspired from regchiu
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaskey&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF" /> </img>
+
