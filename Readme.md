@@ -1,6 +1,5 @@
  Hi! I'm Raj
 
-![](https://komarev.com/ghpvc/?username=rajmaskey&color=blueviolet&style=flat-square)
 
 I am a System Admin, entrepreneur and a passionate developer based in Nepal. I enjoy eating cheese and bring joy to people's lives. I would love to hear your thoughts and ideas. Contact me at: contact@rajmaskey.dev  
 
@@ -25,9 +24,9 @@ I am a System Admin, entrepreneur and a passionate developer based in Nepal. I e
 
 📊 GitHub stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajmaskey&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF" /> </img>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajmaskey&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF" /> 
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaskey&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF" /> </img>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaskey&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF" /> 
 
