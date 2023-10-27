@@ -1,7 +1,7 @@
  Hi! I'm Raj
 
 
-I am a System Admin, entrepreneur and a passionate developer based in Nepal. I enjoy eating cheese and bring joy to people's lives. I would love to hear your thoughts and ideas. Contact me at: contact@rajmaskey.dev  
+I am a System Admin, entrepreneur and a passionate developer based in Nepal. I enjoy eating cheese and bring joy to people's lives. I would love to hear your thoughts and ideas. Contact me at: contact@rajmaskey.com.np  
 
 🌱 I'm currently learning:
 
@@ -13,9 +13,9 @@ I am a System Admin, entrepreneur and a passionate developer based in Nepal. I e
 
 📫 How to reach me:
 
-💌 [Contact@rajmaskey.dev](mailto:contact@rajmaskey.dev)
+💌 [Contact@rajmaskey.com.np](mailto:contact@rajmaskey.com.np)
 
-📃   [> www.rajmaskey.dev](https://rajmaskey.dev) 
+📃   [> www.rajmaskey.com.np](https://rajmaskey.com.np) 
 
 
 🔗 Current Discord Status:
