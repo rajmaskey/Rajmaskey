@@ -5,7 +5,7 @@ I am a system Admin, entrepreneur, and passionate developer based in Nepal. I en
 
 🌱 I'm currently learning:
 
-&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white))![Electron](https://img.shields.io/badge/-Electron-2b2e3b?style=flat-square&logo=Electron)&ensp;![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust)&ensp;
+&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)![Electron](https://img.shields.io/badge/-Electron-2b2e3b?style=flat-square&logo=Electron)&ensp;![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust)&ensp;
 
 ⚙ I'm using these tools:
 
