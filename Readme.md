@@ -30,7 +30,7 @@ I am a system Admin, entrepreneur, and passionate developer based in Nepal. I en
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaskey&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF" /> 
 
-## Currenty I'm listening to: 
+# Currenty I'm listening to: 
 
-<img align="right" src="https://spotify.rajmaskey.com.np"/>
+<img align="left" src="https://spotify.rajmaskey.com.np"/>
 
