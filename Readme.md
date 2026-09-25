@@ -24,8 +24,8 @@ I am a system Admin, entrepreneur, and passionate developer based in Nepal. I en
 
 📊 GitHub stats
 
-<img align="left" width="47%" src="[https://github-readme-stats.vercel.app/api?username=rajmaskey&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)" /> 
-
+![mystats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=what%20ive%20done&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=midnight-purple) 
+![mylanguages](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=pie&langs_count=10&theme=nightowl)
 
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaskey&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF" /> 
