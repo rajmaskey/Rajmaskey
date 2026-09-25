@@ -24,7 +24,7 @@ I am a system Admin, entrepreneur, and passionate developer based in Nepal. I en
 
 📊 GitHub stats
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rajmaskey&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF" /> 
+<img align="left" width="47%" src="[https://github-readme-stats.vercel.app/api?username=rajmaskey&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)" /> 
 
 
 
